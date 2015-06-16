@@ -1,0 +1,18 @@
+name:  <unnamed>
+log:  C:\Users\vangeetej\Desktop\whatever.smcl
+  log type:  smcl
+ opened on:  16 Jun 2015, 09:44:01
+
+. gen x = 1
+
+. gen y = 3
+
+. save "C:\Users\vangeetej\Desktop\test.dta"
+(note: dataset contains 0 observations)
+file C:\Users\vangeetej\Desktop\test.dta saved
+
+. log close
+      name:  <unnamed>
+       log:  C:\Users\vangeetej\Desktop\whatever.smcl
+  log type:  smcl
+ closed on:  16 Jun 2015, 09:44:46
