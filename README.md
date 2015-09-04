@@ -1,2 +1,2 @@
 # dotdash
-Work Done at CDOT
+Data Science repo: useful links, hotkeys, solutions, concepts. 
