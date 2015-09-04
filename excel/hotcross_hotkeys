@@ -1,9 +1,15 @@
 Filtering: 
 
-Ctrl+Shift+L -- toggle row filter.
-
 Alt+Down Arrow+S – Sort A to Z
 Alt+Down Arrow+O – Sort Z to A
 Alt+Down Arrow+T – Sort by Color sub menu
 Alt+Down Arrow+I – Filter by Color sub menu
 Alt+Down Arrow+F – Text or Date Filter sub menu
+
+Ctrl+Shift+L -- toggle row filter
+
+Alt+Down Arrow+F+E+Enter -- filter for blanks cells in the column
+
+Alt+A+C -- clear all the filters in the current filtered range
+
+Alt+Down+Arrow+E -- open the filter drop down menu and jump directly to the search box
